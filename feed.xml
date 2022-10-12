@@ -3,10 +3,30 @@
     <title>Basic Lingo</title>
     <link href="https://basiclingo.github.io/basiclingo.github.io/feed.xml" rel="self" />
     <link href="https://basiclingo.github.io/basiclingo.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-10-12T19:38:05+01:00</updated>
     <author>
         <name>Rajat</name>
     </author>
     <id>https://basiclingo.github.io/basiclingo.github.io</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Rajat</name>
+        </author>
+        <link href="https://basiclingo.github.io/basiclingo.github.io/test.html"/>
+        <id>https://basiclingo.github.io/basiclingo.github.io/test.html</id>
+
+        <updated>2022-10-12T19:38:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
