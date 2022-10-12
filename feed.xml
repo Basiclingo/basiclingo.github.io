@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Basic Lingo</title>
-    <link href="https://basiclingo.github.io/basiclingo.github.io/feed.xml" rel="self" />
-    <link href="https://basiclingo.github.io/basiclingo.github.io" />
+    <link href="https://basiclingo.github.io/feed.xml" rel="self" />
+    <link href="https://basiclingo.github.io" />
     <updated>2022-10-12T19:38:05+01:00</updated>
     <author>
         <name>Rajat</name>
     </author>
-    <id>https://basiclingo.github.io/basiclingo.github.io</id>
+    <id>https://basiclingo.github.io</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Rajat</name>
         </author>
-        <link href="https://basiclingo.github.io/basiclingo.github.io/test.html"/>
-        <id>https://basiclingo.github.io/basiclingo.github.io/test.html</id>
+        <link href="https://basiclingo.github.io/test.html"/>
+        <id>https://basiclingo.github.io/test.html</id>
 
         <updated>2022-10-12T19:38:05+01:00</updated>
             <summary>
