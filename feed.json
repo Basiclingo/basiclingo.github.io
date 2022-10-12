@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Basic Lingo",
+    "description": "",
+    "home_page_url": "https://basiclingo.github.io/basiclingo.github.io",
+    "feed_url": "https://basiclingo.github.io/basiclingo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rajat"
+    },
+    "items": [
+    ]
+}
