@@ -3,12 +3,24 @@
     <title>Basic Lingo</title>
     <link href="https://basiclingo.github.io/feed.xml" rel="self" />
     <link href="https://basiclingo.github.io" />
-    <updated>2022-10-16T20:38:35+01:00</updated>
+    <updated>2022-10-16T20:49:51+01:00</updated>
     <author>
         <name>Rajat</name>
     </author>
     <id>https://basiclingo.github.io</id>
 
+    <entry>
+        <title>Contact Me</title>
+        <author>
+            <name>Rajat</name>
+        </author>
+        <link href="https://basiclingo.github.io/contact-me.html"/>
+        <id>https://basiclingo.github.io/contact-me.html</id>
+
+        <updated>2022-10-16T20:49:51+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>TOEFL</title>
         <author>
@@ -28,37 +40,6 @@
                 
   <p>
     TOEFL
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Introduction</title>
-        <author>
-            <name>Rajat</name>
-        </author>
-        <link href="https://basiclingo.github.io/introduction.html"/>
-        <id>https://basiclingo.github.io/introduction.html</id>
-
-        <updated>2022-10-16T20:35:18+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Hi, I am Rajat Sagar. Your english teacher. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Hi,
-  </p>
-
-  <p>
-    I am Rajat Sagar. Your english teacher.
-  </p>
-
-  <p>
-    
   </p>
             ]]>
         </content>
