@@ -3,7 +3,7 @@
     <title>Basic Lingo</title>
     <link href="https://basiclingo.github.io/feed.xml" rel="self" />
     <link href="https://basiclingo.github.io" />
-    <updated>2022-10-27T22:54:38+05:30</updated>
+    <updated>2022-11-01T14:18:00+05:30</updated>
     <author>
         <name>Rajat</name>
     </author>
@@ -34,24 +34,24 @@
         <content></content>
     </entry>
     <entry>
-        <title>TOEFL</title>
+        <title>Adults</title>
         <author>
             <name>Rajat</name>
         </author>
         <link href="https://basiclingo.github.io/toefl.html"/>
         <id>https://basiclingo.github.io/toefl.html</id>
 
-        <updated>2022-10-17T01:08:35+05:30</updated>
+        <updated>2022-11-01T14:18:00+05:30</updated>
             <summary>
                 <![CDATA[
-                     TOEFL 
+                     
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    TOEFL
+    
   </p>
             ]]>
         </content>
