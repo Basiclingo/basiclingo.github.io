@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://basiclingo.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://basiclingo.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://basiclingo.github.io/</loc>
+<loc>https://basiclingo.com/</loc>
 </url>
 <url>
-<loc>https://basiclingo.github.io/contact-me.html</loc>
+<loc>https://basiclingo.com/contact-me.html</loc>
 <lastmod>2022-10-17T01:19:51+05:30</lastmod>
 </url>
 <url>
-<loc>https://basiclingo.github.io/kids-2.html</loc>
+<loc>https://basiclingo.com/kids-2.html</loc>
 <lastmod>2022-11-01T14:59:34+05:30</lastmod>
 </url>
 <url>
-<loc>https://basiclingo.github.io/test.html</loc>
+<loc>https://basiclingo.com/test.html</loc>
 <lastmod>2022-10-17T00:46:47+05:30</lastmod>
 </url>
 <url>
-<loc>https://basiclingo.github.io/toefl.html</loc>
+<loc>https://basiclingo.com/toefl.html</loc>
 <lastmod>2022-11-01T14:18:00+05:30</lastmod>
 </url>
 </urlset>

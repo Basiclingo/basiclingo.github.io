@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Basic Lingo</title>
-    <link href="https://basiclingo.github.io/feed.xml" rel="self" />
-    <link href="https://basiclingo.github.io" />
+    <link href="https://basiclingo.com/feed.xml" rel="self" />
+    <link href="https://basiclingo.com" />
     <updated>2022-11-01T14:59:34+05:30</updated>
     <author>
         <name>Rajat</name>
     </author>
-    <id>https://basiclingo.github.io</id>
+    <id>https://basiclingo.com</id>
 
     <entry>
         <title>Spoken english classes </title>
         <author>
             <name>Rajat</name>
         </author>
-        <link href="https://basiclingo.github.io/kids-2.html"/>
-        <id>https://basiclingo.github.io/kids-2.html</id>
+        <link href="https://basiclingo.com/kids-2.html"/>
+        <id>https://basiclingo.com/kids-2.html</id>
 
         <updated>2022-11-01T14:59:34+05:30</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Rajat</name>
         </author>
-        <link href="https://basiclingo.github.io/contact-me.html"/>
-        <id>https://basiclingo.github.io/contact-me.html</id>
+        <link href="https://basiclingo.com/contact-me.html"/>
+        <id>https://basiclingo.com/contact-me.html</id>
 
         <updated>2022-10-17T01:19:51+05:30</updated>
             <summary></summary>
@@ -47,8 +47,8 @@
         <author>
             <name>Rajat</name>
         </author>
-        <link href="https://basiclingo.github.io/toefl.html"/>
-        <id>https://basiclingo.github.io/toefl.html</id>
+        <link href="https://basiclingo.com/toefl.html"/>
+        <id>https://basiclingo.com/toefl.html</id>
 
         <updated>2022-11-01T14:18:00+05:30</updated>
             <summary>
@@ -70,8 +70,8 @@
         <author>
             <name>Rajat</name>
         </author>
-        <link href="https://basiclingo.github.io/test.html"/>
-        <id>https://basiclingo.github.io/test.html</id>
+        <link href="https://basiclingo.com/test.html"/>
+        <id>https://basiclingo.com/test.html</id>
 
         <updated>2022-10-17T00:46:47+05:30</updated>
             <summary>

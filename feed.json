@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Basic Lingo",
     "description": "",
-    "home_page_url": "https://basiclingo.github.io",
-    "feed_url": "https://basiclingo.github.io/feed.json",
+    "home_page_url": "https://basiclingo.com",
+    "feed_url": "https://basiclingo.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Rajat"
     },
     "items": [
         {
-            "id": "https://basiclingo.github.io/kids-2.html",
-            "url": "https://basiclingo.github.io/kids-2.html",
+            "id": "https://basiclingo.com/kids-2.html",
+            "url": "https://basiclingo.com/kids-2.html",
             "title": "Spoken english classes ",
             "summary": "We know, You make grammar mistakes while taking in English. If you&hellip;",
             "content_html": "<p>We know, You make grammar mistakes while taking in English. If you are still confused weather you did or did not use the right sentence, well congratulations, you have chosen the right course for yourself. Our Experts will listen to you so closley that there will hardly be any room left to make mistakes. Corrections in live classes and in your recorded speech will give the fluency you always wished. </p>\n<p> </p>",
@@ -24,8 +24,8 @@
             "date_modified": "2022-11-01T14:59:34+05:30"
         },
         {
-            "id": "https://basiclingo.github.io/contact-me.html",
-            "url": "https://basiclingo.github.io/contact-me.html",
+            "id": "https://basiclingo.com/contact-me.html",
+            "url": "https://basiclingo.com/contact-me.html",
             "title": "Contact Me",
             "author": {
                 "name": "Rajat"
@@ -36,8 +36,8 @@
             "date_modified": "2022-10-17T01:19:51+05:30"
         },
         {
-            "id": "https://basiclingo.github.io/toefl.html",
-            "url": "https://basiclingo.github.io/toefl.html",
+            "id": "https://basiclingo.com/toefl.html",
+            "url": "https://basiclingo.com/toefl.html",
             "title": "Adults",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -50,8 +50,8 @@
             "date_modified": "2022-11-01T14:18:00+05:30"
         },
         {
-            "id": "https://basiclingo.github.io/test.html",
-            "url": "https://basiclingo.github.io/test.html",
+            "id": "https://basiclingo.com/test.html",
+            "url": "https://basiclingo.com/test.html",
             "title": "IELTS",
             "summary": "IELTS",
             "content_html": "<p>IELTS</p>",
