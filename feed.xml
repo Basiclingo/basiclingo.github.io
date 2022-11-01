@@ -3,23 +3,32 @@
     <title>Basic Lingo</title>
     <link href="https://basiclingo.github.io/feed.xml" rel="self" />
     <link href="https://basiclingo.github.io" />
-    <updated>2022-11-01T14:18:00+05:30</updated>
+    <updated>2022-11-01T14:59:34+05:30</updated>
     <author>
         <name>Rajat</name>
     </author>
     <id>https://basiclingo.github.io</id>
 
     <entry>
-        <title>KIDS</title>
+        <title>Spoken english classes </title>
         <author>
             <name>Rajat</name>
         </author>
         <link href="https://basiclingo.github.io/kids-2.html"/>
         <id>https://basiclingo.github.io/kids-2.html</id>
 
-        <updated>2022-10-27T22:54:38+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-11-01T14:59:34+05:30</updated>
+            <summary>
+                <![CDATA[
+                    We know, You make grammar mistakes while taking in English. If you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We know, You make grammar mistakes while taking in English. If you are still confused weather you did or did not use the right sentence, well congratulations, you have chosen the right course for yourself. Our Experts will listen to you so closley that there will hardly be any room left to make mistakes. Corrections in live classes and in your recorded speech will give the fluency you always wished. </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Contact Me</title>
